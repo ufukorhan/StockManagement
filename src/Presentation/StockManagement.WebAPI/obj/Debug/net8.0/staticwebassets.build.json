@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xRqcdkRd2B85odLqucvjjuSbVoDtmCyVCnmWUaHktGo=",
+  "Source": "StockManagement.WebAPI",
+  "BasePath": "_content/StockManagement.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

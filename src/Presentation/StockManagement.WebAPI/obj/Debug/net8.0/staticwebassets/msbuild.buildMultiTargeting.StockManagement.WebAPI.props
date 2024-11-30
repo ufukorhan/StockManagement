@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/StockManagement.WebAPI.props" />
+</Project>
