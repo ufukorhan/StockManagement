@@ -1,0 +1,2 @@
+# StockManagement
+Stock Management App
